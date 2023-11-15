@@ -21,7 +21,8 @@ sidebar:
 
 1. 먼저 Github App에서 [Utterances](https://github.com/apps/utterances)를 설치합시다!
 
-![utterance](../assets/images/post_img/utterance.png "Install Utterances"){: width="600"height="300"}
+![utterance](../assets/images/post_img/utterance.png){: width="600"height="300"}
+
 > ❗제 경우에는 이미 설치가 되어있기 때문에 Configure이라고 써있는것이지만 여러분은 Install버튼이 있을겁니다!
 
 Install 버튼을 누른 후 내리다보면 여러 설정들이 보입니다. 
