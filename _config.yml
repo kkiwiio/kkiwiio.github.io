@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -20,7 +20,7 @@ title                    : "개발하는 키위"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
-description              : "An amazing website."
+description              : "this is kiwi's blog"
 url                      : "https://kkiwiio.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kkiwiio/kkiwiio.github.io"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Kiwiio"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/avatar.png"
   bio              : "개발공부를 열심히하는 키위입니다."
   location         : "Seoul, Korea"
   email            : "kyaa0903@gmail.com"
@@ -275,3 +275,5 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "categories"
