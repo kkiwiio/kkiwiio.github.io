@@ -21,7 +21,7 @@ sidebar:
 
 1. 먼저 Github App에서 [Utterances](https://github.com/apps/utterances)를 설치합시다!
 
-![utterance](https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/4bd46259-45b2-4970-bca3-f047b45d15f9) {: width="600"height="300"}
+![utterance](https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/4bd46259-45b2-4970-bca3-f047b45d15f9)
 
 > ❗제 경우에는 이미 설치가 되어있기 때문에 Configure이라고 써있는것이지만 여러분은 Install버튼이 있을겁니다!
 
