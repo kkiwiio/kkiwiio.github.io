@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Kiwiio"
-  avatar           : "/assets/avatar.png"
+  avatar           : "/assets/images/kiwiio.jpg"
   bio              : "개발공부를 열심히하는 키위입니다."
   location         : "Seoul, Korea"
   email            : "kyaa0903@gmail.com"
@@ -277,3 +277,14 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
