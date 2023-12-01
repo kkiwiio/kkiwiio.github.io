@@ -4,7 +4,7 @@ title: minimal-mistakes utterances적용
 excerpt: "블로그에 댓글창 만들기"
 writer: Kiwiio
 categories: 
-    - Git
+    - git
 tag: [python,blog,minimal-mistakes,utterances]
 toc: true
 toc_sticky: true
