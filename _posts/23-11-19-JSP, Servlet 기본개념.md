@@ -1,7 +1,7 @@
 ---
 layout: single
-title: JSP,Servlet 기본개념
-excerpt: 
+title: "JSP,Servlet 기본개념"
+excerpt: JSP 개념을 정리하자
 writer: Kiwiio
 categories: 
     - Web

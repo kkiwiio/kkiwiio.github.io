@@ -1,6 +1,6 @@
 ---
 layout: single
-title: minimal-mistakes utterances적용
+title: "minimal-mistakes utterances적용"
 excerpt: "블로그에 댓글창 만들기"
 writer: Kiwiio
 categories: 

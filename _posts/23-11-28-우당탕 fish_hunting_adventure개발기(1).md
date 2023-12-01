@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 우당탕 fish_hunting_adventure 개발기(1)
+title: "우당탕 fish_hunting_adventure 개발기(1)"
 excerpt: 
 writer: Kiwiio
 categories: 
@@ -13,6 +13,7 @@ date: 2023-11-28
 sidebar: 
     nav: "docs"
 ---
+
 **본격적으로 들어가기에 앞서..**
 
 오픈SW개발 수업시간에 깃허브에 대해 배우며 세명이서 팀을 이루어 pygame을 만드는 프로젝트를 진행하였다.
@@ -25,7 +26,8 @@ sidebar:
 python으로 작성가능한 pygame이라는 게임개발 라이브러리가 있었기에 pygame으로 게임을 진행하였다.
 1부터 코드를 작성하기에는 pygame을 다뤄본적이 없어서 기본 뼈대가 될만한 코드를 가져왔다. 
 
-https://blockdmask.tistory.com/419
+[https://blockdmask.tistory.com/419](https://blockdmask.tistory.com/419)
+
 위 블로그의 코드를 뼈대로 하여 게임을 제작하기로 했다.
 
 <span style='background-color:#fff5b1'> **관련영상** </span>
@@ -59,16 +61,16 @@ https://blockdmask.tistory.com/419
 
 #### 게임 화면
 
-<b>시작화면 </b>
+<b>시작화면 </b><br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/e8170719-9ac1-421f-98f8-e536fc7ba32d" width="400" height="200"/>
 
-<b>스토리화면 </b>
+<b>스토리화면 </b><br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/b4f18298-2237-47f1-939c-d74dc7d844c7" width="400" height="200"/>
 
-<b>게임오버화면</b>
+<b>게임오버화면</b><br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/59c23b46-9f8d-4384-a9dd-5bfca71a67c1" width="400" height="200"/>
 
-<b>게임진행화면 </b>
+<b>게임진행화면 </b><br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/4b12c0e5-c5cb-4224-be05-de44448779b7" width="500" height="200"/>
 
 
@@ -79,10 +81,10 @@ https://blockdmask.tistory.com/419
 개발 과정 도중 다른조와 함께 피드백을 하는 과정이 있었다.
 가장 많이 언급되었던 히트박스 문제가 있었는데
 
-**피드백1**
+**피드백1**<br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/93fdedfd-731c-4e0a-ac95-e3d0d8b3131b" width="500" height="150"/>
 
-**피드백2**
+**피드백2**<br>
 <img src="https://github.com/kkiwiio/kkiwiio.github.io/assets/121476928/e471b119-98be-4dcf-bd76-fec81cdd0afe" width="500" height="200"/>
 
 이미지 자체가 png 파일이였어서 여백 공간이 존재했던 것이 문제였다. 코드 적으로도 해결한 부분이 있지만 이미지 자체를 사이즈를 줄이고 여백 부분을 잘라내었다.
@@ -91,5 +93,7 @@ https://blockdmask.tistory.com/419
 **게임 메뉴 -> 스토리 소개-> 게임시작 -> 게임오버**
 식으로 화면 구성을 변경하였다.
 확실히 스토리가 추가되니 게임이 조금 더 기승전결이 있어보였다.
-<hr>
+
+
+---
 우당탕 게임 개발기 2탄에서는 본격적인 코드 개발 과정과 그 과정상에서 발생했던 오류들에 대해 소개해보고자 한다!
