@@ -1,9 +1,9 @@
 ---
-title: "Algorithm"
-layout: category
-permalink: /categories/algorithm/
+title: "algorithm"
+layout: archive
+permalink: categories/algorithm/
 author_profile: true
-taxonomy: Algorithm
-sidebar:
-  nav: "categories"
+sidebar_main: true
 ---
+{% assign posts = site.categories.algorithm %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
