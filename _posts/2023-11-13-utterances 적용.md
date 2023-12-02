@@ -1,18 +1,8 @@
 ---
-layout: single
+published: true
 title: "minimal-mistakes utterances적용"
-excerpt: "블로그에 댓글창 만들기"
-writer: Kiwiio
-categories: 
-    - git
+categories: Git_Blog
 tag: [python,blog,minimal-mistakes,utterances]
-toc: true
-toc_sticky: true
-author_profile: false
-date: 2023-11-13
-sidebar: 
-    nav: "docs"
-
 ---
 깃허브 블로그에 댓글을 달 수 있도록 해보겠습니다. 
 

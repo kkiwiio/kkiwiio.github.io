@@ -1,25 +1,35 @@
 # main links
 main:
-  - title: "Home"
-    url: https://kkiwiio.github.io/
+  - title: "category"
+    url: /categories/
+  # - title: "Tag"
+  #   url: /tags/
+  - title: "search"
+    url: /search/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
 
-  - title: "About"
-    url: /about/
+docs:
+  - title: ""
+    url: 
+    children:
+      - title: "Category"
+        url: /categories/
+      - title: "Tag"
+        url: /tags/
 
-  - title: "GitHub"
-    url: https://github.com/kkiwiio
-
-
-categories:
-  - title: "Python"
-    url: /categories/python/
-  - title: "Algorithm"
-    url: /categories/algorithm/
-  - title: "Git"
-    url: /categories/git/
-  - title: "ML+DL"
-    url: /categories/ML+DL/
-  - title: "Web"
-    url: /categories/Web/
-  - title: "Project"
-    url: /categories/Project/
+# docs:
+#   - title: Category
+#     children:
+#       - title: "SQL"
+#         url: /docs/sql/
+#       - title: "Diary"
+#         url: /docs/diary/
+#       - title: "Etc"
+#         url: /docs/etc/

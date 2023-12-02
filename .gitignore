@@ -20,6 +20,10 @@ codekit-config.json
 
 # macOS
 .DS_Store
+.bundle
+.sass-cache
+node_modules
+package.json
 
 # Jekyll generated files
 .jekyll-cache
@@ -27,3 +31,11 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock

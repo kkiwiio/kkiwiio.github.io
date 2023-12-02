@@ -1,17 +1,9 @@
 ---
-layout: single
-title: "우당탕 fish_hunting_adventure 개발기(1)"
-excerpt: 
-writer: Kiwiio
-categories: 
-    - Project
-tag: "pygame" ,'project' , 'penguin'
-toc: true
-toc_sticky: true
-author_profile: false
-date: 2023-11-28
-sidebar: 
-    nav: "docs"
+published: true
+title: "[Pygame] 게임 개발 프로젝트"
+categories: Project
+tag: [pygame ,project, penguin]
+
 ---
 
 **본격적으로 들어가기에 앞서..**

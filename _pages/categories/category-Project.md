@@ -1,9 +1,0 @@
----
-title: "Project"
-layout: category
-permalink: /categories/project/
-author_profile: true
-taxonomy: Project
-sidebar:
-  nav: "categories"
----

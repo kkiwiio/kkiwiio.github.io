@@ -1,18 +1,8 @@
 ---
-layout: single
+published: true
 title: "JSP,Servlet 기본개념"
-excerpt: JSP 개념을 정리하자
-writer: Kiwiio
-categories: 
-    - Web
+categories: Web
 tag: [web,jSP,servlet]
-toc: true
-toc_sticky: true
-author_profile: false
-date: 2023-11-19
-sidebar: 
-    nav: "docs"
-
 ---
 
 전혀 공부하지 않았던 분야인 웹에 대해 공부를 시작하려니 개념부터 헷갈리기 시작 현재 공부하고 있는 웹프로그래밍 과목의 jsp와 servlet의 차이를 좀 알아둬야겠다고 생각했다. 
