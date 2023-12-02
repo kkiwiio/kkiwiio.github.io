@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "개발하는 키위"
+title                    : "개발하는 키위🥝"
 title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kiwiio"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kiwiio"
   avatar           : "/assets/images/kiwiio.jpg"
-  bio              : "개발공부를 열심히하는 키위입니다."
+  bio              : "studying on SKHU"
   location         : "Seoul, Korea"
   email            : "kyaa0903@gmail.com"
   links:
