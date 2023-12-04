@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/kiwiio.jpg"
   bio              : "studying on SKHU"
   location         : "Seoul, Korea"
-  email            : "kyaa0903@gmail.com"
+  # email            : "kyaa0903@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -272,6 +272,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: false # 22.08.01 GY - hide read_time
+      show_date: true
       comments: true
       share: true
       related: true
